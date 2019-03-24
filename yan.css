@@ -1,0 +1,42 @@
+
+.tinto{
+	font-family: tahoma;
+	display: block;
+	width: 593px;
+	margin-right: 15px;
+}
+
+.tinto a{
+	font-weight: bold;
+
+	text-decoration: none;
+}
+.baiviet{
+	padding-top: 4px;
+    padding-right: 7px;
+    padding-bottom: 4px;
+    padding-left: 7px;
+    display: inline-block;
+	background: red;
+	color: white;
+}
+.tinnho{
+	display: block;
+	display: flex;
+	flex-direction: row;
+}
+.tinnho a{
+	font-weight: bold;
+	font-family: tahoma;
+	text-decoration: none;
+	display: block;
+	width: 254px;
+	margin-right: 15px;
+}
+a:hover{
+	color: orange;
+}
+.tgian{ 
+	color: red;
+	font-size: 12px;
+}
